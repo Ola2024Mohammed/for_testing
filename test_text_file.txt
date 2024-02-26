@@ -1,0 +1,1 @@
+now i am training to make pull so i am created a file om remote repo and then i will make pull to my local repo 
